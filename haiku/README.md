@@ -2,7 +2,5 @@
 
 `
 annish@Annies-MacBook-Pro-2 ~ % cd Documents 
-annish@Annies-MacBook-Pro-2 Documents % say "hello, world" -o hello.mp3
+annish@Annies-MacBook-Pro-2 Documents % say "hello, world" -o hello.aiff
 `
-
-mp3 file worked! 
