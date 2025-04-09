@@ -1,0 +1,38 @@
+# Annie Zhang FPP
+
+## What will (likely) be the title of your project?
+AnnieSFX: Masterpiece of Craft
+
+## In just a sentence or two, summarize your project.  
+My project is a customizable and interactive portfolio website that showcases my professional work as a sound designer.
+
+## List at least 3 resources you know you will use in developing your project
+- ChatGPT / DeepSeek  
+- YouTube tutorials  
+- Professor Rachel Rome
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+This website will serve as my professional portfolio. It will showcase my work through embedded audio and video, and include pages for my biography, resume, and contact information. The site will be structured with a main landing page and several subpages organized by project categories. I plan to build the site from scratch using HTML, and possibly CSS and JavaScript for additional interactivity. If time permits, I will implement interactive buttons that trigger animations and sound effects when clicked. For visual elements like animation, I may purchase assets or collaborate with an artist.
+
+## Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
+
+No, this project will not overlap with any other class.  
+**Professor: TODO**
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.  
+In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+- A fully functional main page for the portfolio website with basic navigation, content, and media.
+
+## In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+- Completion of the main page plus at least one working subpage with additional content and navigation.
+
+## In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+- Full website with main and subpages, interactive buttons with sound effects, and background animations.
+
+## In a paragraph or more, outline your next steps WITH A SPECIFIC CALENDAR. What new skills will you need to acquire? What topics will you need to research?
+
+To begin, I’ll learn HTML and how to structure a webpage from scratch. In Week 1, I’ll focus on building the basic layout and getting the main page to display correctly. Week 2 will be about learning how to link video and music, as well as how to create and connect subpages. Week 3 will focus on research and experimentation with adding animations and interactive buttons that trigger sound effects. If needed, I’ll look into purchasing or commissioning animation assets. By Week 4, I plan to pull everything together, polish the visuals, and test functionality across different browsers.
